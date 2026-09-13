@@ -89,6 +89,8 @@ The current prototype extracts structured information such as:
 The pipeline is designed for Portuguese-language environmental enforcement documents.
 
 ## Example
+<img width="1832" height="892" alt="image" src="https://github.com/user-attachments/assets/4d6b5e0c-240a-409d-8aea-3133f98e80a1" />
+
 
 ### Input
 
