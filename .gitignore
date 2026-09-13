@@ -1,0 +1,20 @@
+# Hackathon participant data
+data/
+output/
+
+# OCR/model/cache files
+.paddleocr/
+inference_results/
+log_output/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
