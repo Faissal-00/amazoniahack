@@ -2,4 +2,4 @@ paddlepaddle
 paddleocr
 opencv-python
 pillow
-pydantic
+pydanticstreamlit
