@@ -204,11 +204,6 @@ See `requirements.txt` for the project dependencies.
 | Cost awareness           | Local open-source baseline                   |
 | Privacy                  | Participant dataset excluded from repository |
 
-## Repository
-
-**GitHub:**
-https://github.com/Faissal-00/amazoniahack
-
 ## Team
 
 **Outlier**
